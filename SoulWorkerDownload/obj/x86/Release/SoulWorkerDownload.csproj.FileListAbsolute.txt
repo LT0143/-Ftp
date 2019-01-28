@@ -1,0 +1,9 @@
+G:\SVN\LH2018.12.20\Source\Soulworker\Tools\SoulWorkerDownload\SoulWorkerDownload\bin\Release\SoulWorkerDownload.exe.config
+G:\SVN\LH2018.12.20\Source\Soulworker\Tools\SoulWorkerDownload\SoulWorkerDownload\bin\Release\SoulWorkerDownload.exe
+G:\SVN\LH2018.12.20\Source\Soulworker\Tools\SoulWorkerDownload\SoulWorkerDownload\bin\Release\SoulWorkerDownload.pdb
+G:\SVN\LH2018.12.20\Source\Soulworker\Tools\SoulWorkerDownload\SoulWorkerDownload\obj\x86\Release\SoulWorkerDownload.MainForm.resources
+G:\SVN\LH2018.12.20\Source\Soulworker\Tools\SoulWorkerDownload\SoulWorkerDownload\obj\x86\Release\SoulWorkerDownload.Properties.Resources.resources
+G:\SVN\LH2018.12.20\Source\Soulworker\Tools\SoulWorkerDownload\SoulWorkerDownload\obj\x86\Release\SoulWorkerDownload.csproj.GenerateResource.Cache
+G:\SVN\LH2018.12.20\Source\Soulworker\Tools\SoulWorkerDownload\SoulWorkerDownload\obj\x86\Release\SoulWorkerDownload.exe
+G:\SVN\LH2018.12.20\Source\Soulworker\Tools\SoulWorkerDownload\SoulWorkerDownload\obj\x86\Release\SoulWorkerDownload.pdb
+G:\SVN\LH2018.12.20\Source\Soulworker\Tools\SoulWorkerDownload\SoulWorkerDownload\obj\x86\Release\SoulWorkerDownload.csprojResolveAssemblyReference.cache

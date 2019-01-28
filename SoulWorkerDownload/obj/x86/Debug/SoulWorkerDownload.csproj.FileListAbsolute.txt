@@ -1,0 +1,8 @@
+G:\SVN\LH2018.12.20\Source\Soulworker\Tools\SoulWorkerDownload\SoulWorkerDownload\bin\Debug\SoulWorkerDownload.exe.config
+G:\SVN\LH2018.12.20\Source\Soulworker\Tools\SoulWorkerDownload\SoulWorkerDownload\obj\x86\Debug\SoulWorkerDownload.MainForm.resources
+G:\SVN\LH2018.12.20\Source\Soulworker\Tools\SoulWorkerDownload\SoulWorkerDownload\obj\x86\Debug\SoulWorkerDownload.Properties.Resources.resources
+G:\SVN\LH2018.12.20\Source\Soulworker\Tools\SoulWorkerDownload\SoulWorkerDownload\obj\x86\Debug\SoulWorkerDownload.csproj.GenerateResource.Cache
+G:\SVN\LH2018.12.20\Source\Soulworker\Tools\SoulWorkerDownload\SoulWorkerDownload\bin\Debug\SoulWorkerDownload.exe
+G:\SVN\LH2018.12.20\Source\Soulworker\Tools\SoulWorkerDownload\SoulWorkerDownload\bin\Debug\SoulWorkerDownload.pdb
+G:\SVN\LH2018.12.20\Source\Soulworker\Tools\SoulWorkerDownload\SoulWorkerDownload\obj\x86\Debug\SoulWorkerDownload.exe
+G:\SVN\LH2018.12.20\Source\Soulworker\Tools\SoulWorkerDownload\SoulWorkerDownload\obj\x86\Debug\SoulWorkerDownload.pdb
